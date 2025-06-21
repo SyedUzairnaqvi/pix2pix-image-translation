@@ -30,15 +30,5 @@ _(Screenshot of Input → Target → Predicted image)_
 - TensorFlow Examples (for `pix2pix`)
 - Matplotlib
 
-## 🚀 How to Run
-```bash
-pip install tensorflow tensorflow_datasets
-pip install git+https://github.com/tensorflow/examples.git
 
-
-
-
-### 🔹 Step 2.3: Save the file as:
-```bash
-README.md
 
